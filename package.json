@@ -1,0 +1,15 @@
+{
+  "name": "shona-cmd",
+  "version": "1.0.0",
+  "description": "Shona command project",
+  "main": "dashboard.js",
+  "scripts": {
+    "dev": "node dashboard.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
